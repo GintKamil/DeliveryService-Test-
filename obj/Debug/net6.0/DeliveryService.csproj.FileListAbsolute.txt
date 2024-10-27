@@ -1,0 +1,30 @@
+C:\проект c#\DeliveryService\bin\Debug\net6.0\DeliveryService.exe
+C:\проект c#\DeliveryService\bin\Debug\net6.0\DeliveryService.deps.json
+C:\проект c#\DeliveryService\bin\Debug\net6.0\DeliveryService.runtimeconfig.json
+C:\проект c#\DeliveryService\bin\Debug\net6.0\DeliveryService.dll
+C:\проект c#\DeliveryService\bin\Debug\net6.0\DeliveryService.pdb
+C:\проект c#\DeliveryService\obj\Debug\net6.0\DeliveryService.csproj.AssemblyReference.cache
+C:\проект c#\DeliveryService\obj\Debug\net6.0\DeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\проект c#\DeliveryService\obj\Debug\net6.0\DeliveryService.AssemblyInfoInputs.cache
+C:\проект c#\DeliveryService\obj\Debug\net6.0\DeliveryService.AssemblyInfo.cs
+C:\проект c#\DeliveryService\obj\Debug\net6.0\DeliveryService.csproj.CoreCompileInputs.cache
+C:\проект c#\DeliveryService\obj\Debug\net6.0\DeliveryService.dll
+C:\проект c#\DeliveryService\obj\Debug\net6.0\refint\DeliveryService.dll
+C:\проект c#\DeliveryService\obj\Debug\net6.0\DeliveryService.pdb
+C:\проект c#\DeliveryService\obj\Debug\net6.0\DeliveryService.genruntimeconfig.cache
+C:\проект c#\DeliveryService\obj\Debug\net6.0\ref\DeliveryService.dll
+C:\ProjectC#\DeliveryService\bin\Debug\net6.0\DeliveryService.exe
+C:\ProjectC#\DeliveryService\bin\Debug\net6.0\DeliveryService.deps.json
+C:\ProjectC#\DeliveryService\bin\Debug\net6.0\DeliveryService.runtimeconfig.json
+C:\ProjectC#\DeliveryService\bin\Debug\net6.0\DeliveryService.dll
+C:\ProjectC#\DeliveryService\bin\Debug\net6.0\DeliveryService.pdb
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\DeliveryService.csproj.AssemblyReference.cache
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\DeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\DeliveryService.AssemblyInfoInputs.cache
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\DeliveryService.AssemblyInfo.cs
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\DeliveryService.csproj.CoreCompileInputs.cache
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\DeliveryService.dll
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\refint\DeliveryService.dll
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\DeliveryService.pdb
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\DeliveryService.genruntimeconfig.cache
+C:\ProjectC#\DeliveryService\obj\Debug\net6.0\ref\DeliveryService.dll
